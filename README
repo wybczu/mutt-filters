@@ -18,7 +18,7 @@ Installation
 ------------
 You need something like this in your muttrc ...
 
-autoview text/calendar
+auto_view text/calendar
 alternative_order text/plain text/html text/*
 
 which instructs mutt that the text/calendar MIME type can be automatically
